@@ -18,6 +18,8 @@
 
 ## 🚀 About Me
 
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+
 - 🎓 B.Tech CSE @ **MIT-ADT University, Pune (2022–Present)**
 - 📊 Strong interest in **Data Science & Analytics**
 - 💡 Hands-on experience in **EDA, Data Cleaning & ML Models**
@@ -30,8 +32,8 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
-  <a href="https://github.com/pg834"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/></a>
 </p>
 
 ---
